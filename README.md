@@ -1,2 +1,4 @@
 # Electronics-calculator
-Calculator for basic conversions and operations
+
+Academic project, a calculator for basic conversions between systems and operations on them.
+Main task was to familiarize with basics of OOP with C++.
